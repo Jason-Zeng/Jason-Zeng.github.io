@@ -1609,11 +1609,13 @@ pre .javascript .function {
   margin-top: 0;
 }
 .site-author-image {
-    animation: 2s ease 0.5s normal forwards 1 running cycle;
-    border: 2px dashed #fff;
-    border-radius: 100%;
-    padding: 2px;
-    transition: border-radius 2s ease 0s;
+  animation: 2s ease 0.5s normal forwards 1 running cycle;
+  border: 2px dashed #fff;
+  border-radius: 100%;
+  padding: 2px;
+  transition: border-radius 2s ease 0s;
+  height: 120px;
+  width: 120px;
 }
 .site-author-name {
   margin: 0;
@@ -1695,7 +1697,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4bff09;
+  background: #7a9efc;
 }
 .links-of-blogroll {
   font-size: 13px;
